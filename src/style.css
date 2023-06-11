@@ -1,0 +1,34 @@
+body {
+  background-color: #362923;
+}
+
+h1 {
+  color: #ebe0c8;
+  text-align: center;
+}
+
+p {
+  color: #ebe0c8;
+  text-align: center;
+}
+
+.link {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+a {
+  color: #ebe0c8;
+}
+
+a:active {
+  color: #ebe0c8;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 30px;
+}
